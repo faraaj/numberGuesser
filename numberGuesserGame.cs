@@ -6,7 +6,7 @@ namespace NumberGuesser
     {
         const string appName = "Number Guesser";
         const string appVersion = "1.0.0";
-        const string appAuthor = "faraj#1337";
+        const string appAuthor = "faraj#1337 and Quamozos#6514";
         static Random random = new Random();
         
         // choose a point method
