@@ -1,6 +1,6 @@
 # Number Guesser
 
-Faraj's first number guesser game made in C#.
+Faraj's first number guesser game made in C#, it's for beginners
 
 # Using code
 
